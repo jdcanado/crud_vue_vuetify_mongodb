@@ -23,7 +23,7 @@
         <v-toolbar-side-icon
           @click.stop="drawer = !drawer;"
         ></v-toolbar-side-icon>
-        <v-toolbar-title>ComandApp</v-toolbar-title>
+        <v-toolbar-title>ComandApp OTech</v-toolbar-title>
       </v-toolbar>
       <v-content>
         <v-container fluid fill-height>
