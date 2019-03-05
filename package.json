@@ -1,6 +1,6 @@
 {
   "name": "csb-qqp5ryy6q",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "now-start": "cd dist && serve -s ./",
