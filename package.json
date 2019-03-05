@@ -1,11 +1,10 @@
 {
-  "name": "crud-vue-com-vuetify-e-mongodb",
+  "name": "csb-qqp5ryy6q",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "now-build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
