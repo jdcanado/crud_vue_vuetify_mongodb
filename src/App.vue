@@ -23,7 +23,7 @@
         <v-toolbar-side-icon
           @click.stop="drawer = !drawer;"
         ></v-toolbar-side-icon>
-        <v-toolbar-title>ComandApp OTech Development</v-toolbar-title>
+        <v-toolbar-title>ComandApp OTech</v-toolbar-title>
       </v-toolbar>
       <v-content>
         <v-container fluid fill-height>
@@ -34,7 +34,7 @@
           </v-layout>
         </v-container>
       </v-content>
-      <v-footer app fixed> <span>&copy; 2017</span> </v-footer>
+      <v-footer app fixed> <span>&copy; 2019</span> </v-footer>
     </v-app>
   </div>
 </template>
